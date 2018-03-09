@@ -1,4 +1,4 @@
-'''TensorFlow implementation of http://arxiv.org/pdf/1312.6114v10.pdf'''
+
 
 from __future__ import absolute_import, division, print_function
 
